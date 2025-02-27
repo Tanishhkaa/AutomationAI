@@ -55,4 +55,4 @@
 ### install
 > pip install automation_editor
 
-![Architecture Diagram]()
+![https://github.com/Tanishhkaa/AutomationAI/blob/main/architecture_diagram/system%20design.png]
